@@ -72,7 +72,7 @@ h1 { margin: 0; font-size: 2.2rem; }
     
 }
 /* Section Styling */
-.section1{
+.section-title {
     font-size: 1.4rem;
     border-bottom: 2px solid var(--primary-blue);
     padding-bottom: 5px;
